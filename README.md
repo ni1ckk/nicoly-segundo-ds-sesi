@@ -1,2 +1,2 @@
-# nicoly-segundo-ds-sesi
+#tarefas-DS
 Atividades de DS dos professores Diogo e Rêmulo
